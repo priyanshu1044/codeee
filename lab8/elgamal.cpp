@@ -1,6 +1,4 @@
 #include<bits/stdc++.h>
-
-
 using namespace std;
 
 
@@ -94,6 +92,3 @@ Elliptic Points:-
 (11,11) (11,2)
 (12,5) (12,8)
 */
-
-
-
